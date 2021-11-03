@@ -1,7 +1,6 @@
 <!--### Hi there 👋-->
 
-As cliche as it may sound, I am a problem solver. Having a background in electrical and electronic engineering, I have thoroughly enjoyed finding data solutions within the industry. Looking forward I am eager to apply my new learnt skills in machine learning across multiple industries. I strongly believe in Occam’s Razor – the simplest explanation is usually the best one - and love using this principle and a bit of creativity to find novel ways to solve complex problems.
-
+I am a natural problem-solver and strongly believe in Occam’s Razor – the simplest explanation is usually the best one. I love using this principle and a bit of creativity to find novel ways to solve complex problems. With a background in electrical and electronic engineering, I have thoroughly enjoyed finding data solutions within the industry and I am eager to apply my range of skills in machine learning across multiple industries.
 <!--
 **tiff-woodley/tiff-woodley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
